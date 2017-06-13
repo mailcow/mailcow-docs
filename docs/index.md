@@ -1,5 +1,3 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ![mailcow](https://www.debinux.de/256.png)
 
 - [mailcow](#mailcow)
@@ -10,8 +8,6 @@
 - [Installation](#installation)
 - [Upgrade](#upgrade)
 - [Uninstall](#uninstall)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 mailcow
 =====

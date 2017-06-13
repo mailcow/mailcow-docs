@@ -1,0 +1,27 @@
+site_name: "mailcow: documentation"
+site_url: https://mailcow.github.io/mailcow-docs/
+site_favicon: images/favicon.png
+copyright: 'Copyright &copy; 2017 André Peters'
+repo_name: mailcow/mailcow
+repo_url: https://github.com/mailcow/mailcow
+edit_uri: ../mailcow-docs/edit/master/docs/
+remote_branch: gh-pages
+theme: material
+markdown_extensions:
+  - codehilite(guess_lang=true)
+  - toc(permalink=true)
+  - admonition
+  - pymdownx.magiclink
+  - pymdownx.tasklist(custom_checkbox=true)
+  - pymdownx.mark
+  - pymdownx.tilde
+  - footnotes
+pages:
+- 'Information & Support': 'index.md'
+extra:
+  logo: 'images/logo.svg'
+  palette:
+    primary: 'indigo'
+    accent: 'orange'
+extra_css: [extra.css]
+google_analytics: ['UA-92608422-4', 'mailcow.github.io']

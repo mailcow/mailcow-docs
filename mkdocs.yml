@@ -8,6 +8,7 @@ edit_uri: ../mailcow-docs/edit/master/docs/
 remote_branch: gh-pages
 theme: material
 markdown_extensions:
+  - codehilite(guess_lang=true)
   - toc(permalink=true)
   - admonition
   - pymdownx.magiclink
